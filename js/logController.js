@@ -1,19 +1,19 @@
 angular.module('starter.logscontroller', [])
 
-.controller('LogsCtrl', function($scope, localStorageService, logsSrv, $log, $exceptionHandler) {
+.controller('LogsCtrl', function ($scope, localStorageService) {
 
-    $scope.$on('$ionicView.enter', function(e) {
-         var stringVersion = localStorageService.get("errors");
-    $scope.errors = stringVersion;
-   // console.log(stringVersion);
-        
-  });
-  
-   
-       
-    $scope.clearLogs = function(){
+    $scope.$on('$ionicView.enter', function ( ) {
+        var stringVersion = localStorageService.get("errors");
+        $scope.errors = stringVersion;
+
+
+    });
+
+
+
+    $scope.clearLogs = function () {
         localStorageService.clearAll();
-        $scope.errors=localStorageService.get("errors");
-    }
-    
+        $scope.errors = localStorageService.get("errors");
+    };
+
 });
