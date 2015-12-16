@@ -9,7 +9,7 @@ angular.module('starter.controllers', [])
     $scope.loggedIn = false;
     $scope.currentUser = "";
 
-    // Create the login modal that we will use later
+    // Create the login modal 
     $ionicModal.fromTemplateUrl('templates/login.html', {
         scope: $scope,
         backdropClickToClose: false,

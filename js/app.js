@@ -1,11 +1,4 @@
-// Ionic Starter App
-
-// angular.module is a global place for creating, registering and retrieving Angular modules
-// 'starter' is the name of this angular module example (also set in a <body> attribute in index.html)
-// the 2nd parameter is an array of 'requires'
-// 'starter.controllers' is found in controllers.js
 angular.module('starter', ['ionic', 'starter.controllers', 'ngCordova', 'LocalStorageModule', 'starter.storecontroller', 'starter.storeservice', 'starter.searchservice', 'starter.searchcontroller', 'starter.logscontroller', 'starter.logsservice', 'angular-logger', 'starter.exceptionOverride', 'satellizer'])
-
 
 
 .run(function ($ionicPlatform) {
@@ -18,7 +11,7 @@ angular.module('starter', ['ionic', 'starter.controllers', 'ngCordova', 'LocalSt
 
         }
         if (window.StatusBar) {
-            // org.apache.cordova.statusbar required
+           
             StatusBar.styleDefault();
         }
     });
