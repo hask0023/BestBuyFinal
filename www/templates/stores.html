@@ -1,0 +1,41 @@
+<ion-view view-title="Best Buy Locations">
+  <ion-content>
+      <div class= "storeListContents">
+    
+      <form name="taskform" id="">
+            <input id="search-city" name="search-city" type="text" placeholder="city" ng-model="$parent.cityName" />
+            <input id="cityBtn" type="submit" value="search city" ng-click="searchCity()"></input>
+            <input id="localBtn" type="submit" value="show near me" ng-click="findNearbyStores()"></input>
+        </form>
+      
+       <ion-list ng-if="storeListGeo" >  
+            
+            <ion-item ng-repeat="store in storeListGeo track by $index">
+                <div class= "storeListContents" style="word-break:break-word;">
+                <p>{{store.name}}</p>
+                <p><strong>Address:</strong> {{store.address}}</p>
+                <p class = "storeListContents"><strong>Hours:</strong> {{store.hoursAmPm}}</p> 
+                <p><strong>Phone:</strong> {{store.phone}}</p>
+                <p><strong>Distance:</strong> {{store.distance}} miles away</p>
+                 </div>
+            </ion-item>
+           
+        </ion-list>
+    
+     <ion-list ng-if="storeListCity" >
+         
+            <ion-item ng-repeat="store in storeListCity track by $index">
+                <div class="storeDiv">
+                <p>{{store.name}}</p>
+                <p><strong>Address:</strong> {{store.address}}</p>
+                <p><strong>Hours:</strong> {{store.hoursAmPm}}</p> 
+                <p><strong>Phone:</strong> {{store.phone}}</p>
+               </div>
+               
+            </ion-item>
+         
+        </ion-list>
+ <p ng-if="noResults">Sorry but there are no results for this search.</p>
+</div>
+  </ion-content>
+</ion-view>

@@ -1,0 +1,58 @@
+/* Empty. Add your own CSS if you like */
+.slider {
+/*    height: 100%;*/
+}
+
+.slider-slide{
+  
+    color: #000;
+    background-color: #fff;
+    text-align: center;
+    
+}
+
+.slide{
+/*    height: 100vh;*/
+   
+    background-color: aliceblue;
+}
+
+.productImage{
+   max-height: 200px;
+    max-width: 200px;
+}
+
+.productSlides {
+    height: 400px;
+/*    width: 500px;*/
+  
+   
+        
+}
+
+.storeListContents {
+
+    margin: 0 auto;
+    max-width: 800px;
+    word-break: break-all;
+ word-wrap: break-word;
+}
+
+.storeDiv {
+    max-width: 800px;
+    word-break: break-all;
+    word-wrap: break-word;
+}
+.bugger {
+    word-break: break-all;
+}
+
+#new-search {
+    border: 1px solid black;
+    margin-bottom: 20px;
+}
+
+#search-city {
+    border: 1px solid black;
+    margin-bottom: 20px;
+}

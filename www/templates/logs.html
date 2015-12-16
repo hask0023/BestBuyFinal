@@ -1,0 +1,10 @@
+<ion-view view-title="Local Storage Logs">
+  <ion-content>
+       <input id="clearBtn" type="submit" value="clear local storage" ng-click="clearLogs()"></input>
+    <ion-list>
+      <ion-item ng-repeat="error in errors" >
+        <p>{{error.error}}</p>
+      </ion-item>
+    </ion-list>
+  </ion-content>
+</ion-view>
