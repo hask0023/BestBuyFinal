@@ -1,0 +1,26 @@
+<ion-view onload="login()" view-title="Search BestBuy">
+  
+        
+       <ion-content>
+        <form name="taskform" id="">
+            <input id="new-search" name="new-search" type="text" placeholder="new search" ng-model="$parent.searchName" />
+            <input id="searchBtn" type="submit" value="search" ng-click="searchNow()"></input>
+          
+           
+        </form>
+
+      <p ng-if="noResults">Sorry but there are no results for this search.</p>
+        <ion-slide-box class="productSlides" ng-if="products" >
+            
+            <ion-slide ng-repeat="product in products track by $index">
+                <div>
+                <img class="productImage" src="{{product.image}}"></img>
+                <p>{{product.name}}</p>
+                <p>${{product.salePrice}}</p>
+                <p>Sku: {{product.sku}}</p>              
+                </div>
+            </ion-slide>
+        </ion-slide-box>
+ 
+  </ion-content>
+</ion-view>

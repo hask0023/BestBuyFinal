@@ -1,0 +1,50 @@
+2015-12-15 00:54:08.986 BestBuyFinal[4279:161080] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/stevehaskins/Library/Developer/CoreSimulator/Devices/182A19F5-C74D-4BC8-B8C5-87424DF4CF9F/data/Containers/Data/Application/C18206F6-0364-434E-A177-0D0327C63192/Library/Cookies/ca.mad.bestbuyfinal.binarycookies
+2015-12-15 00:54:09.250 BestBuyFinal[4279:161080] Apache Cordova native platform version 3.8.0 is starting.
+2015-12-15 00:54:09.250 BestBuyFinal[4279:161080] Multi-tasking -> Device: YES, App: YES
+2015-12-15 00:54:09.267 BestBuyFinal[4279:161080] Unlimited access to network resources
+2015-12-15 00:54:09.614 BestBuyFinal[4279:161080] [CDVTimer][keyboard] 0.074983ms
+2015-12-15 00:54:10.025 BestBuyFinal[4279:161080] [CDVTimer][splashscreen] 410.982013ms
+2015-12-15 00:54:10.026 BestBuyFinal[4279:161080] [CDVTimer][TotalPluginStartup] 411.559999ms
+2015-12-15 00:54:10.090 BestBuyFinal[4279:161080] Resetting plugins due to page load.
+2015-12-15 00:54:10.485 BestBuyFinal[4279:161080] Finished load of: file:///Users/stevehaskins/Library/Developer/CoreSimulator/Devices/182A19F5-C74D-4BC8-B8C5-87424DF4CF9F/data/Containers/Bundle/Application/116267B1-07AB-4566-871F-76909C1C379C/BestBuyFinal.app/www/index.html#/app/search
+2015-12-15 00:54:19.919 BestBuyFinal[4279:161148] App Transport Security has blocked a cleartext HTTP (http://) resource load since it is insecure. Temporary exceptions can be configured via your app's Info.plist file.
+2015-12-15 00:57:29.435 BestBuyFinal[4624:163678] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/stevehaskins/Library/Developer/CoreSimulator/Devices/182A19F5-C74D-4BC8-B8C5-87424DF4CF9F/data/Containers/Data/Application/D8E0146B-C619-4074-9469-23F6398DAFC8/Library/Cookies/ca.mad.bestbuyfinal.binarycookies
+2015-12-15 00:57:29.544 BestBuyFinal[4624:163678] Apache Cordova native platform version 3.8.0 is starting.
+2015-12-15 00:57:29.544 BestBuyFinal[4624:163678] Multi-tasking -> Device: YES, App: YES
+2015-12-15 00:57:29.547 BestBuyFinal[4624:163678] Unlimited access to network resources
+2015-12-15 00:57:29.574 BestBuyFinal[4624:163678] [CDVTimer][keyboard] 0.065982ms
+2015-12-15 00:57:29.614 BestBuyFinal[4624:163678] [CDVTimer][splashscreen] 39.543033ms
+2015-12-15 00:57:29.614 BestBuyFinal[4624:163678] [CDVTimer][TotalPluginStartup] 40.010989ms
+2015-12-15 00:57:29.659 BestBuyFinal[4624:163678] Resetting plugins due to page load.
+2015-12-15 00:57:29.843 BestBuyFinal[4624:163678] Finished load of: file:///Users/stevehaskins/Library/Developer/CoreSimulator/Devices/182A19F5-C74D-4BC8-B8C5-87424DF4CF9F/data/Containers/Bundle/Application/4F82AC41-1B10-48A8-9452-64321AA1F81F/BestBuyFinal.app/www/index.html#/app/search
+2015-12-15 02:28:11.084 BestBuyFinal[5906:184049] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/stevehaskins/Library/Developer/CoreSimulator/Devices/182A19F5-C74D-4BC8-B8C5-87424DF4CF9F/data/Containers/Data/Application/FA183ABF-A4C6-4972-8282-ED5C1B7EA547/Library/Cookies/ca.mad.bestbuyfinal.binarycookies
+2015-12-15 02:28:11.211 BestBuyFinal[5906:184049] Apache Cordova native platform version 3.8.0 is starting.
+2015-12-15 02:28:11.211 BestBuyFinal[5906:184049] Multi-tasking -> Device: YES, App: YES
+2015-12-15 02:28:11.216 BestBuyFinal[5906:184049] Unlimited access to network resources
+2015-12-15 02:28:11.263 BestBuyFinal[5906:184049] [CDVTimer][keyboard] 0.070989ms
+2015-12-15 02:28:11.315 BestBuyFinal[5906:184049] [CDVTimer][splashscreen] 52.250981ms
+2015-12-15 02:28:11.315 BestBuyFinal[5906:184049] [CDVTimer][TotalPluginStartup] 52.684009ms
+2015-12-15 02:28:11.345 BestBuyFinal[5906:184049] Resetting plugins due to page load.
+2015-12-15 02:28:11.544 BestBuyFinal[5906:184049] Finished load of: file:///Users/stevehaskins/Library/Developer/CoreSimulator/Devices/182A19F5-C74D-4BC8-B8C5-87424DF4CF9F/data/Containers/Bundle/Application/97301359-21B2-4056-9A92-C56ED70AB745/BestBuyFinal.app/www/index.html#/app/search
+2015-12-15 02:29:02.750 BestBuyFinal[5906:184087] App Transport Security has blocked a cleartext HTTP (http://) resource load since it is insecure. Temporary exceptions can be configured via your app's Info.plist file.
+2015-12-15 02:39:03.421 BestBuyFinal[6297:189692] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/stevehaskins/Library/Developer/CoreSimulator/Devices/182A19F5-C74D-4BC8-B8C5-87424DF4CF9F/data/Containers/Data/Application/AB995E0D-55DD-461A-A168-46D126ABB8A0/Library/Cookies/ca.mad.bestbuyfinal.binarycookies
+2015-12-15 02:39:03.527 BestBuyFinal[6297:189692] Apache Cordova native platform version 3.8.0 is starting.
+2015-12-15 02:39:03.527 BestBuyFinal[6297:189692] Multi-tasking -> Device: YES, App: YES
+2015-12-15 02:39:03.529 BestBuyFinal[6297:189692] Unlimited access to network resources
+2015-12-15 02:39:03.563 BestBuyFinal[6297:189692] [CDVTimer][keyboard] 0.066996ms
+2015-12-15 02:39:03.613 BestBuyFinal[6297:189692] [CDVTimer][splashscreen] 49.765050ms
+2015-12-15 02:39:03.613 BestBuyFinal[6297:189692] [CDVTimer][TotalPluginStartup] 50.184011ms
+2015-12-15 02:39:03.656 BestBuyFinal[6297:189692] Resetting plugins due to page load.
+2015-12-15 02:39:03.939 BestBuyFinal[6297:189692] Finished load of: file:///Users/stevehaskins/Library/Developer/CoreSimulator/Devices/182A19F5-C74D-4BC8-B8C5-87424DF4CF9F/data/Containers/Bundle/Application/3AC98EBB-7790-4D0E-90C2-2C8A45FDBCAF/BestBuyFinal.app/www/index.html#/app/search
+2015-12-15 02:39:13.549 BestBuyFinal[6297:189729] App Transport Security has blocked a cleartext HTTP (http://) resource load since it is insecure. Temporary exceptions can be configured via your app's Info.plist file.
+2015-12-15 02:42:59.568 BestBuyFinal[6594:191659] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/stevehaskins/Library/Developer/CoreSimulator/Devices/182A19F5-C74D-4BC8-B8C5-87424DF4CF9F/data/Containers/Data/Application/E997A66E-05C1-4D9C-B928-4A81873EA984/Library/Cookies/ca.mad.bestbuyfinal.binarycookies
+2015-12-15 02:42:59.695 BestBuyFinal[6594:191659] Apache Cordova native platform version 3.8.0 is starting.
+2015-12-15 02:42:59.695 BestBuyFinal[6594:191659] Multi-tasking -> Device: YES, App: YES
+2015-12-15 02:42:59.703 BestBuyFinal[6594:191659] Unlimited access to network resources
+2015-12-15 02:42:59.730 BestBuyFinal[6594:191659] [CDVTimer][keyboard] 0.063002ms
+2015-12-15 02:42:59.767 BestBuyFinal[6594:191659] [CDVTimer][splashscreen] 36.650002ms
+2015-12-15 02:42:59.767 BestBuyFinal[6594:191659] [CDVTimer][TotalPluginStartup] 37.059009ms
+2015-12-15 02:42:59.805 BestBuyFinal[6594:191659] Resetting plugins due to page load.
+2015-12-15 02:43:00.064 BestBuyFinal[6594:191659] Finished load of: file:///Users/stevehaskins/Library/Developer/CoreSimulator/Devices/182A19F5-C74D-4BC8-B8C5-87424DF4CF9F/data/Containers/Bundle/Application/1371CC6D-77B0-4EE0-A1CA-2C196387FBA6/BestBuyFinal.app/www/index.html#/app/search
+2015-12-15 13:20:08.376 BestBuyFinal[6594:315781] XPC connection interrupted
+2015-12-15 13:20:08.376 BestBuyFinal[6594:315788] Terminating since there is no system app.
